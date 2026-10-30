@@ -30,3 +30,5 @@ cargo test
 
 ## Лицензия
 MIT
+
+<!-- verified: 2026-10-30 -->
